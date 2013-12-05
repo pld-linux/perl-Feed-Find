@@ -9,7 +9,7 @@ Summary:	Feed::Find - Syndication feed auto-discovery
 Summary(pl.UTF-8):	Feed::Find - automatyczne wykrywanie feedów zespolonych
 Name:		perl-Feed-Find
 Version:	0.07
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
