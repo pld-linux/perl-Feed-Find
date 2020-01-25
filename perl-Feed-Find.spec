@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Feed
 %define	pnam	Find
 Summary:	Feed::Find - Syndication feed auto-discovery
